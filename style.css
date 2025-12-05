@@ -1,10 +1,9 @@
-<!--Убираем флаг в атрибутах-->
+
 
 	  .leaflet-attribution-flag {display: none !important;}
 	
 
- <!--Стили для легенды-->
-	  <style type="text/css">
+ 
 		.legend {
 			color: #555;
 			padding: 6px 8px;
@@ -130,3 +129,4 @@ body {
     z-index: 100; /* Уровень перекрытия — поверх большинства других элементов (как у шапки) */
     position: relative; /* Тип позиционирования блока: относительное */
 }
+
